@@ -72,7 +72,7 @@ We welcome contributions from the community to enhance Avert and make it more ef
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)
 
 ## Contact
 
