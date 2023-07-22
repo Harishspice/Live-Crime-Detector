@@ -1,6 +1,6 @@
 # AVERT - Live Crime Detector
 
-Avert is an innovative app designed to enhance public safety by using CCTV cameras to detect and prevent violent incidents in real-time. Once an act of violence is identified, Avert will promptly alert the authorities, providing them with critical information to respond swiftly and efficiently.
+Avert is an innovative app designed to enhance public safety by using CCTV cameras to detect and prevent violent incidents in real-time. Once an act of violence is identified, Avert will notify alert the authorities, providing them with critical information to respond swiftly and efficiently.
 
 
 ![WhatsApp Image 2023-04-14 at 11 39 30](https://github.com/Harishspice/Live-Violence-Detector/assets/117935868/5fded68b-6937-40b0-a81b-9a676c526543)
